@@ -1,0 +1,3 @@
+git+https://github.com/Rapptz/discord.py.git@9f1c511b474536c749869a2a80b74750cdafbdf3
+hcloud==1.18.2
+attrs>=22.1.0
